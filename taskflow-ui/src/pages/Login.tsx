@@ -39,10 +39,10 @@ const Login = () => {
 
       <div className="login-card">
 
-        <div className="logo">🚀 TaskFlow</div>
+        <div className="logo">🚀 Nyveriq</div>
 
         <p className="subtitle">
-          Project Management made Simple & Powerful
+          Plan. Track. Deliver.
         </p>
 
         {error && <div className="error">{error}</div>}
@@ -97,7 +97,7 @@ const Login = () => {
     </Link>
 
     <div className="footer">
-        TaskFlow v1.0 <br />
+        Nyveriq v1.0 <br />
         Built by Debangshu Chanda
     </div>
 </div>

@@ -20,8 +20,8 @@ const SignUp: React.FC = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    document.title = "TaskFlow | Sign Up";
-  }, []);
+  document.title = "Nyveriq | Login";
+}, []);
 
   const handleSubmit = async () => {
     if (
@@ -68,10 +68,10 @@ const SignUp: React.FC = () => {
 
       <div className="signup-card">
 
-        <div className="logo">🚀 TaskFlow</div>
+        <div className="logo">🚀 Nyveriq</div>
 
         <p className="subtitle">
-          Create Your TaskFlow Account
+          Create Your Nyveriq Account
         </p>
 
         {error && <div className="error">{error}</div>}
@@ -157,7 +157,7 @@ const SignUp: React.FC = () => {
           </Link>
 
           <div className="footer">
-            TaskFlow v1.0
+            Nyveriq v1.0
             <br />
             Built by Debangshu Chanda
           </div>
