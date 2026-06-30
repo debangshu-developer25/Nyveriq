@@ -46,7 +46,8 @@ A modern **Task & Project Management System** built with **ASP.NET Core Web API*
 
 ## Login
 
-<img width="800" height="362" alt="image" src="https://github.com/user-attachments/assets/d6f1d61e-e4fa-4d46-a5b2-b06122b8642c" />
+<img width="364" height="316" alt="image" src="https://github.com/user-attachments/assets/088d35e1-2148-45e7-ace6-27f53c3191ff" />
+
 
 
 ## Dashboard
